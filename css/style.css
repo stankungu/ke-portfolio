@@ -144,17 +144,16 @@ nav a:focus {
 .banner_center {
 	width: 50%;
 	position: absolute;
-	margin-bottom: 3%;
+	top: 40%;
 	left: 25%;
 	text-align: center;
+	margin-top: auto;
 }
 .banner_center h1 {
 	color: #eee;
 	font-family: 'Arvo', serif;
 	text-transform: uppercase;
 	font-size: 2.4em;
-	margin-top: -3%;
-	margin-bottom: 5%;
 }
 .banner_center h2 {
 	color: #eee;
@@ -168,7 +167,7 @@ nav a:focus {
 	color: #eee;
 	font-family: 'Arvo', serif;
 	font-size: 13px;
-	margin-top: -5%;
+	padding:7px 0;
 	text-align: center;
 }
 
